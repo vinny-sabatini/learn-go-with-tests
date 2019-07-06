@@ -8,6 +8,7 @@ See [http-server](../http-server)
 See [json](../json)
 
 ## Chapter 4 - IO & Sorting
+See [io](../io)
 
 ## Chapter 5 - Command Line & Package Structure
 
